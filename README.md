@@ -1,0 +1,4 @@
+SmartPlanning
+=============
+
+Smarter Planning Poker
